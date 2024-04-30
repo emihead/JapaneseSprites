@@ -1,5 +1,5 @@
 # JapaneseSprites
-Balatro 用の日本のスプライト MOD
+Balatro 用の日本語のスプライト MOD
 
 This mod modifies many of Balatro's sprites to include Japanese text. It also includes some edits to the other text in the game. If you wish, more details about the mod's specific features are available in the [Balatro Discord](https://discord.gg/balatro).
 
