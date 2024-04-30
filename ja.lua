@@ -2114,7 +2114,7 @@ return {
                 }
             },
             c_immolate = {
-                name = "生贄",
+                name = "いけにえ",
                 text = {
                     "手札のランダムな",
                     "カード {C:attention}#1#{} 枚を破壊して",
